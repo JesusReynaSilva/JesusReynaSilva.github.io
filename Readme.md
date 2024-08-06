@@ -1,29 +1,24 @@
-diabetes-info/
+Servicios-info/
 ├── README.md
-# Información sobre la Diabetes
-
-Bienvenido a este repositorio donde compartimos información completa sobre la diabetes. Aquí encontrarás recursos sobre los diferentes tipos de diabetes, sus síntomas, tratamientos, y más.
+# Servicios de clinica
+Bienvenido a SusanaSalud clinica en la cual se prestan servicios medicos y examenes de laboratorio para tener una salud sana, a continuacion te presentamos los siguientes servicios
 
 ## Contenido
 
-- [Introducción](#introducción)
-- [Tipos de Diabetes](#tipos-de-diabetes)
+- [Hemograma completo](#Hemograma completo)
+- [Análisis de orina completo](#Análisis de orina completo)
 - [Síntomas](#síntomas)
 - [Tratamiento](#tratamiento)
 - [Recursos Adicionales](#recursos-adicionales)
 - [Contribuciones](#contribuciones)
 
-## Introducción
+## Hemograma completo
 
-La diabetes es una enfermedad crónica que afecta la forma en que el cuerpo convierte los alimentos en energía. Hay varios tipos de diabetes, cada uno con sus propias características y métodos de tratamiento.
+Es el conteo de los elementos celulares de la sangre como son las células rojas, blancas y plaquetas, ayuda a detectar enfermedades como la leucemia.
 
-## Tipos de Diabetes
+## Análisis de orina completo
 
-- **Diabetes Tipo 1**: Una condición autoinmune donde el cuerpo no produce insulina.
-- **Diabetes Tipo 2**: Una condición donde el cuerpo no usa la insulina adecuadamente.
-- **Diabetes Gestacional**: Diabetes que se desarrolla durante el embarazo.
-
-Para más detalles, consulta [Tipos de Diabetes](docs/tipos_de_diabetes.md).
+Sirve para detectar un problema de salud relacionado con el sistema urinario: infecciones, diabetes, mal funcionamiento de los riñones, cálculos o indicios de cáncer.
 
 ## Síntomas
 
@@ -43,31 +38,3 @@ El tratamiento de la diabetes puede involucrar:
 - Administración de insulina
 - Medicamentos orales
 - Dieta y ejercicio
-
-Para más detalles, consulta [Tratamiento](docs/tratamiento.md).
-
-## Recursos Adicionales
-
-- [Artículos](recursos/articulos.md)
-- [Videos](recursos/videos.md)
-- [Libros](recursos/libros.md)
-
-## Contribuciones
-
-Si deseas contribuir a este repositorio, por favor revisa [Contribuciones](contribuciones.md) para más información.
-
----
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
-├── docs/
-│   ├── tipos_de_diabetes.md
-│   ├── sintomas.md
-│   ├── tratamiento.md
-├── recursos/
-│   ├── articulos.md
-│   ├── videos.md
-│   ├── libros.md
-└── contribuciones.md
